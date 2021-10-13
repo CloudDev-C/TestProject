@@ -28,7 +28,7 @@ int main()
 	srand(time(NULL));
 
 	int arr[10];
-
+	//sdiufnidnfijsdnfijnsdijfnsdijfnsdijfn
 	init_array(arr, 10);
 
 	show_array(arr, 10);
